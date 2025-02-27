@@ -8,7 +8,6 @@ const Notification = () => {
     return notification
   })
 
-  console.log('notification', notification)
   const style = {
     border: 'solid',
     padding: 10,
